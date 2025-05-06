@@ -1,7 +1,7 @@
 <!-- Intro -->
-<h5 align="center">
+<h1 align="center">
   <samp>&gt; Hey There! I am <b>Dipratna Mahire</b> </samp>
-</h5>
+</h1>
 
 <p align="center">
   <samp>「 I am a Java Fullstack Developer 」</samp>
