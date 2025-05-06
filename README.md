@@ -3,9 +3,9 @@
   <samp>&gt; Hey There! I am <b>Dipratna Mahire</b> </samp>
 </h1>
 
-<p align="center">
+<h2 align="center">
   <samp>「 I am a Java Fullstack Developer 」</samp>
-</p>
+</h2>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/deepmahire1122/" target="_blank">
