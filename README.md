@@ -54,19 +54,6 @@
 
 ---
 
-## 📁 Featured Projects
-
-- 💼 [Sun Bank ATM Simulator](https://github.com/Deep-mahire/sun-bank-atm)  
-  `Java` `HTML` `MySQL` — Simulated ATM banking system with authentication and transaction management.
-
-- 📇 [Contact Manager App](https://github.com/Deep-mahire/contact-manager)  
-  `React` `Spring Boot` `MySQL` — Full-stack web app to manage contacts with login & CRUD operations.
-
-- 🌐 [ICEM Admission Landing Page](https://github.com/Deep-mahire/icem-landing)  
-  `React` `Tailwind CSS` — Clean, responsive landing page for engineering admissions.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
