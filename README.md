@@ -1,6 +1,6 @@
 <!-- Intro -->
 <h3 align="center">
-  <samp>&gt; Hey There! I am <b>Dipratna Mahire</b> 🚀</samp>
+  <samp>&gt; Hey There! I am <b>Dipratna Mahire</b> </samp>
 </h3>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="350" src="JackSparrow1122/git.gif" alt="coding" />
+<img align="right" width="350" src="git.gif" alt="coding" />
 
 - 💻 Java Full Stack Developer
 - ✨ Passionate about coding, problem-solving, and learning new tech
