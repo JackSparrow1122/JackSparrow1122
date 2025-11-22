@@ -55,7 +55,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Techwolf78">
+  <a href="https://github.com/JackSparrow1122">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Techwolf78&theme=radical&border=7F3FBF&background=0D1117" alt="Ajay's GitHub streak"/>
   </a>
 </p>
