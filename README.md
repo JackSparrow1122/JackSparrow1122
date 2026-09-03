@@ -65,7 +65,11 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JackSparrow1122&theme=radical" alt="Deep's GitHub Contribution"/>
   </a>
 </p>
-
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Techwolf78/Techwolf78/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Techwolf78/Techwolf78/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Techwolf78/Techwolf78/output/github-contribution-grid-snake-dark.svg" width="90%">
+  </picture>
 <a> 
     <a href="https://github.com/JackSparrow1122"><img alt="Deep's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JackSparrow1122&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
         
