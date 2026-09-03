@@ -70,7 +70,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Techwolf78/Techwolf78/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Techwolf78/Techwolf78/output/github-contribution-grid-snake-dark.svg" width="90%">
   </picture>
-<a> 
+<a align="center"> 
     <a href="https://github.com/JackSparrow1122"><img alt="Deep's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JackSparrow1122&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
         
   <a href="https://github.com/JackSparrow1122"><img alt="Deep's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Techwolf78&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
@@ -81,33 +81,12 @@
   <br/><br/>
 
   <!-- 5. Dynamic Typing SVG Below Snake -->
-  <a href="https://github.com/Techwolf78">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Building+scalable%2C+high-performance+web+apps;Turning+complex+logic+into+clean+interfaces;Crafting+pixel-perfect+code+%26+modern+experiences;Always+shipping.+Always+optimizing." alt="Typing SVG" />
-  </a>
+
 
 </div>
 
 <br/><br/>
 
 <!-- 6. Option B: The High-Performance Engineer Section -->
-<table border="0" align="center" style="border: none; background: transparent; width: 100%;">
-  <tr style="border: none; background: transparent;">
-    <!-- Left Side: Guaranteed Active Dev/Space Animation -->
-    <td width="42%" align="center" valign="middle" style="border: none; padding: 10px;">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" style="border-radius: 12px;" alt="High Performance Developer"/>
-    </td>
-    <!-- Right Side: High-Performance Engineering Lore -->
-    <td width="58%" valign="middle" style="border: none; padding: 15px;">
-      <h3>✦ THE CRAFT & SYSTEM</h3>
-      <p>
-        ◈ &nbsp; <b>Precision:</b> Pixel-perfect UI with fluid, responsive interactions.<br/><br/>
-        ◈ &nbsp; <b>Scalability:</b> Architecting clean, maintainable, production-grade systems.<br/><br/>
-        ◈ &nbsp; <b>Mindset:</b> Transforming complex problem domains into elegant, shipped products.<br/><br/>
-        ◈ &nbsp; <b>Velocity:</b> Rapid prototyping, continuous exploration & zero technical debt.<br/><br/>
-        <i>"Architecture is about the decisions you wish you could get right early on."</i>
-      </p>
-    </td>
-  </tr>
-</table>
 
-![Deep's Graph](https://github-readme-activity-graph.vercel.app/graph?username=JackSparrow1122&custom_title=Deep%Mahire's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
